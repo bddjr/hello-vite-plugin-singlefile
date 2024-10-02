@@ -1,3 +1,7 @@
+https://www.npmjs.com/package/vite-plugin-singlefile
+
+---
+
 ## Usage
 
 ```bash
