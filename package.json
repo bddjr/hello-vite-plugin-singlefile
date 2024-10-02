@@ -1,7 +1,7 @@
 {
   "name": "hello-vite-plugin-singlefile",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "solid-js": "^1.8.20"
+    "@sergeymakinen/vite-plugin-html-minimize": "^2.0.0",
+    "solid-js": "^1.8.20",
+    "vite-plugin-compression": "^0.5.1"
   },
   "devDependencies": {
     "typescript": "^5.5.3",
